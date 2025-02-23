@@ -1,3 +1,2 @@
 # dynamicFare
 
-Dynamic Pricing

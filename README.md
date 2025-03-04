@@ -1,3 +1,1 @@
 # dynamicFare
-
-dynamic 
